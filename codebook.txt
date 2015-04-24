@@ -1,0 +1,210 @@
+#Actually I don`t understand about what all of theese variables and my explanations is only copy-paste...
+NOTE:   For more information you can write to my email: kbezdym@gmail.com
+	And I try to explain everything
+
+
+DATA DICTIONARY 
+
+activityname   
+	Type of activity. First grouping level  
+    
+subject  
+	Code of subject. Second grouping level   
+            
+timebodyaccmeanx     
+	average value of: mean value of time domain signals from accelerometer in X direction (body signals)
+   
+timebodyaccmeany      
+	average value of: mean value of time domain signals from accelerometer in Y direction (body signals)
+   
+timebodyaccmeanz    
+	average value of: mean value of time domain signals from accelerometer in Z direction  (body signals)
+   
+timebodyaccstdx 
+	average value of: standart deviation value of time domain signals from accelerometer in X direction (body signals)
+
+timebodyaccstdy  
+	average value of: standart deviation value of time domain signals from accelerometer in Y direction (body signals)
+       
+timebodyaccstdz         
+	average value of: standart deviation value of time domain signals from accelerometer in Z direction (body signals)
+
+timegravityaccmeanx
+	average value of: mean value of time domain signals from accelerometer in X direction (gravity signals)
+    	
+timegravityaccmeany
+	average value of: mean value of time domain signals from accelerometer in Y direction (gravity signals) 
+    
+timegravityaccmeanz   
+	average value of: mean value of time domain signals from accelerometer in Z direction (gravity signals)
+  
+timegravityaccstdx
+	average value of: standart deviation value of time domain signals from accelerometer in X direction (gravity signals) 
+    
+timegravityaccstdy      
+	average value of: standart deviation value of time domain signals from accelerometer in Y direction (gravity signals)
+
+timegravityaccstdz 
+	average value of: standart deviation value of time domain signals from accelerometer in Z direction (gravity signals)	  
+   
+timebodyaccjerkmeanx   
+	average value of: mean value of Jerk signals from accelerometer in X direction (body signals) 
+
+timebodyaccjerkmeany    
+	average value of: mean value of Jerk signals from accelerometer in Y direction (body signals)
+
+timebodyaccjerkmeanz    
+	average value of: mean value of Jerk signals from accelerometer in Z direction (body signals)
+
+timebodyaccjerkstdx  
+	average value of: standart deviation value of Jerk signals from accelerometer in X direction (body signals) 
+ 
+timebodyaccjerkstdy 
+	average value of: standart deviation value of Jerk signals from accelerometer in Y direction (body signals) 
+    
+timebodyaccjerkstdz 
+	average value of: standart deviation value of Jerk signals from accelerometer in Z direction (body signals) 
+    
+timebodygyromeanx     
+	average value of: mean value of time domain signals from gyroscope in X direction (body signals)
+
+timebodygyromeany  
+	average value of: mean value of time domain signals from gyroscope in Y direction (body signals)
+     
+timebodygyromeanz       
+	average value of: mean value of time domain signals from gyroscope in Z direction (body signals)
+
+timebodygyrostdx       
+	average value of: standart deviation value of time domain signals from gyroscope in X direction (body signals)
+
+timebodygyrostdy        
+	average value of: standart deviation value of time domain signals from gyroscope in Y direction (body signals)
+
+timebodygyrostdz   
+	average value of: standart deviation value of time domain signals from gyroscope in Z direction (body signals)
+     
+timebodygyrojerkmeanx 
+	average value of: mean value of Jerk signals from gyroscope in X direction (body signals) 
+
+timebodygyrojerkmeany   
+	average value of: mean value of Jerk signals from gyroscope in Y direction (body signals)
+
+timebodygyrojerkmeanz   
+	average value of: mean value of Jerk signals from gyroscope in Z direction (body signals)
+
+timebodygyrojerkstdx   
+	average value of: standart deviation value of Jerk signals from gyroscope in X direction (body signals)
+
+timebodygyrojerkstdy    
+	average value of: standart deviation value of Jerk signals from gyroscope in Y direction (body signals)
+
+timebodygyrojerkstdz 
+	average value of: standart deviation value of Jerk signals from gyroscope in Z direction (body signals)
+   
+timebodyaccmagmean 
+	average value of: mean value of magnitude time domain signals from accelerometer  (body signals)   
+
+timebodyaccmagstd   
+	average value of: standart deviation value of magnitude time domain signals from accelerometer  (body signals)     
+ 
+timegravityaccmagmean   
+	average value of: mean value of magnitude time domain signals from accelerometer  (gravitysignals)   
+
+timegravityaccmagstd   
+	average value of: standart deviation value of magnitude time domain signals from accelerometer  (gravity signals) 
+
+timebodyaccjerkmagmean  
+	average value of: mean value of magnitude Jerk signals from accelerometer  (body signals) 
+
+timebodyaccjerkmagstd  
+	average value of: standart deviation value of magnitude Jerk signals from accelerometer  (body signals)  
+
+timebodygyromagmean   
+	average value of: mean value of magnitude time domain signals from gyroscope (body signals)
+
+timebodygyromagstd  
+	average value of: standart deviation value of magnitude time domain signals from gyroscope (body signals)   
+ 
+timebodygyrojerkmagmean 
+	average value of: mean value of magnitude Jerk signals from gyroscope (body signals) 
+
+timebodygyrojerkmagstd 
+	average value of: standart deviation value of magnitude Jerk signals from gyroscope (body signals) 
+
+freqbodyaccmeanx    
+	average value of: mean value of Fast Fourier Transform from accelerometer in X direction (body signals)  
+   
+freqbodyaccmeany    
+	average value of: mean  value of Fast Fourier Transform from accelerometer in Y direction (body signals)  
+   
+freqbodyaccmeanz   
+	average value of: mean value of Fast Fourier Transform from accelerometer in Z direction (body signals) 
+
+freqbodyaccstdx  
+	average value of: standart deviation value of Fast Fourier Transform from accelerometer in X direction (body signals) 
+      
+freqbodyaccstdy         
+	average value of: standart deviation value of Fast Fourier Transform from accelerometer in Y direction (body signals)
+
+freqbodyaccstdz     
+	average value of: standart deviation value of Fast Fourier Transform from accelerometer in Z direction (body signals)
+   
+freqbodyaccjerkmeanx 
+	average value of: mean value of Fast Fourier Transform Jerk signals from accelerometer in X direction (body signals)  
+ 
+freqbodyaccjerkmeany
+	average value of: mean value of Fast Fourier Transform Jerk signals from accelerometer in Y direction (body signals) 
+   
+freqbodyaccjerkmeanz  
+	average value of: mean value of Fast Fourier Transform Jerk signals from accelerometer in Z direction (body signals)
+ 
+freqbodyaccjerkstdx  
+	average value of: standart deviation value of Fast Fourier Transform Jerk signals from accelerometer in X direction (body signals)
+   
+freqbodyaccjerkstdy 
+	average value of: standart deviation value of Fast Fourier Transform Jerk signals from accelerometer in Y direction (body signals)  
+  
+freqbodyaccjerkstdz   
+	average value of: standart deviation value of Fast Fourier Transform Jerk signals from accelerometer in Z direction (body signals)
+ 
+freqbodygyromeanx  
+	average value of: mean value of Fast Fourier Transform from gyroscope in X direction (body signals)
+     
+freqbodygyromeany 
+	average value of: mean value of Fast Fourier Transform from gyroscope in Y direction (body signals)  
+    
+freqbodygyromeanz  
+	average value of: mean value of Fast Fourier Transform from gyroscope in Z direction (body signals)
+
+freqbodygyrostdx        
+	average value of: standart deviation value of Fast Fourier Transform from gyroscope in X direction (body signals)
+
+freqbodygyrostdy        
+	average value of: standart deviation value of Fast Fourier Transform from gyroscope in Y direction (body signals)
+
+freqbodygyrostdz  
+	average value of: standart deviation value of Fast Fourier Transform from gyroscope in Z direction (body signals)
+
+freqbodyaccmagmean   
+	average value of: mean value of magnitude Fast Fourier Transform from accelerometer  (body signals)   
+
+freqbodyaccmagstd  
+	average value of: standart deviation value of magnitude Fast Fourier Transform from accelerometer  (body signals)     
+
+freqbodyaccjerkmagmean 
+	average value of: mean value of magnitude Fast Fourier Transform Jerk signals from accelerometer  (body signals) 
+
+freqbodyaccjerkmagstd   
+	average value of: standart deviation value of magnitude  Fast Fourier Transform Jerk signals from accelerometer  (body signals)  
+
+freqbodygyromagmean     
+	average value of: mean value of magnitude Fast Fourier Transform from gyroscope (body signals)
+
+freqbodygyromagstd     
+	average value of: standart deviation value of magnitude Fast Fourier Transform from gyroscope (body signals)   
+ 
+freqbodygyrojerkmagmean 
+	average value of: mean value of magnitude Fast Fourier Transform Jerk signals from gyroscope (body signals) 
+
+freqbodygyrojerkmagstd 
+	average value of: standart deviation value of magnitude Fast Fourier Transform Jerk signals from gyroscope (body signals) 
